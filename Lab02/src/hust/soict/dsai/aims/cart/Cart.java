@@ -1,4 +1,5 @@
-
+import java.util.ArrayList;
+import java.util.List;
 
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 20;
@@ -12,6 +13,24 @@ public class Cart {
             itemsOrdered[this.index] = disc;
             this.index++;
             System.out.println("The disc has been added");
+        }
+    }
+    public void addDigitalVideoDisc(DigitalVideoDisc[] dvdList){
+        if (itemsOrdered.length + dvdList.length >= MAX_NUMBERS_ORDERED){
+            System.out.println("Cannot add because there's no space");
+        } else {
+            for (DigitalVideoDisc disc : dvdList){
+                this.addDigitalVideoDisc(disc);
+            }
+        }
+    }
+
+    public void addDigitalVideoDisc(DigitalVideoDisc dvd1, DigitalVideoDisc dvd2) {
+        if (itemsOrdered.length <= MAX_NUMBERS_ORDERED - 2) {
+            System.out.println("Cannot add because there's no space");
+        } else {
+            this.addDigitalVideoDisc(dvd1);
+            this.addDigitalVideoDisc(dvd2);
         }
     }
 
