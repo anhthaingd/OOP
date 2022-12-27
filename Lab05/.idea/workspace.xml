@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61b6751c-54ab-400c-9d8c-29622da8f132" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab03.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/cart/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/disc/DigitalVideoDisc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/disc/Disc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/CompactDisc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Media.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Track.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/disc/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/Lab02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/Lab02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/out/production/Lab02/Aims.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/out/production/Lab02/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/out/production/Lab02/DigitalVideoDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/out/production/Lab02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/src/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab02/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/Lab04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/Lesson8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/out/production/Lesson8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/out/production/Lesson8/backend/Exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/out/production/Lesson8/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/out/production/Lesson8/frontend/Program1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/src/backend/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/src/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/src/entity/StudentEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/src/frontend/Program1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NguyenDoanAnhThai_20205021_Week1.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JUO9x9RnSwiq7fx4q0DyS2JJkL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GUIProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GUIProject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61b6751c-54ab-400c-9d8c-29622da8f132" name="Changes" comment="" />
+      <created>1672129050153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672129050153</updated>
+      <workItem from="1672129051907" duration="1136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
