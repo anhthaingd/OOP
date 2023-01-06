@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22d0527f-f239-4dea-8388-000a5d0f3b54" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_media_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_media_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_web_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_web_win_11_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GUIProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hust/soict/globalict/swing/AWTAccumulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hust/soict/globalict/swing/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hust/soict/globalict/swing/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hust/soict/globalict/swing/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/guiproject/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/guiproject/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/guiproject/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/GUIProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/out/production/GUIProject1/hust/soict/globalict/swing/AWTAccumulator$TFInputListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/out/production/GUIProject1/hust/soict/globalict/swing/AWTAccumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/out/production/GUIProject1/hust/soict/globalict/swing/NumberGrid$ButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/out/production/GUIProject1/hust/soict/globalict/swing/NumberGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/out/production/GUIProject1/hust/soict/globalict/swing/SwingAccumulator$TFInputListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/out/production/GUIProject1/hust/soict/globalict/swing/SwingAccumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/src/hust/soict/globalict/swing/AWTAccumulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/src/hust/soict/globalict/swing/NumberGrid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUIProject1/src/hust/soict/globalict/swing/SwingAccumulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/Lab02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/Aims.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/cart/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/disc/DigitalVideoDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/disc/Disc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/CompactDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Media.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Playable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/media/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/screen/StoreScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/store/MediaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/out/production/Lab02/hust/soict/dsai/aims/store/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/disc/Disc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/CompactDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Media.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/media/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/screen/StoreScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/store/MediaStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/src/hust/soict/dsai/aims/store/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/Lesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/ChoosingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/EasyMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/FirstDegreeEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/HeightNStar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/InputFromKeyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/NumOfDaysOfMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/SecondDegreeEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/out/production/Lesson1/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/ChoosingOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/EasyMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/FirstDegreeEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/FirstDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/HeightNStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/HelloNameDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/InputFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/NumOfDaysOfMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/SecondDegreeEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/SecondDegreeEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Lesson1/src/ShowTwoNumbers.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Jp5MAe2eZgHXaxNQ0GuUcyE3cc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hust/soict/dsai/javafx/Painter.fxml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Painter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.javafx.Painter" />
+      <module name="GUIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.soict.dsai.javafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Painter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d0527f-f239-4dea-8388-000a5d0f3b54" name="Changes" comment="" />
+      <created>1672762135258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672762135258</updated>
+      <workItem from="1672762137103" duration="993000" />
+      <workItem from="1672792434561" duration="2709000" />
+      <workItem from="1672795962345" duration="5050000" />
+      <workItem from="1672812069570" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
